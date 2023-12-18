@@ -35,3 +35,8 @@ Add your expenses by clicking on the "Add Expense" button.
 Categorize your expenses for better analysis.
 Explore visualizations and reports to understand your spending habits.
 
+![image](https://github.com/singhal0306/expense-analyzer/assets/86726484/a279d3a8-bcba-49cc-b351-1f96b01a8e38)
+![image](https://github.com/singhal0306/expense-analyzer/assets/86726484/9147b5ee-2e1e-46e0-b72e-9d94ecc97baa)
+![image](https://github.com/singhal0306/expense-analyzer/assets/86726484/1d563dc5-efd4-4836-94b6-9fd04bec8a70)
+![image](https://github.com/singhal0306/expense-analyzer/assets/86726484/cf9c695e-a838-4946-a4fc-7e6feae16159)
+
